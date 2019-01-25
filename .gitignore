@@ -1,0 +1,11 @@
+*.pyc
+log.html
+output.xml
+report.html
+*.ncb
+*.suo
+
+
+build/
+dist/
+device_agent/lib/out/

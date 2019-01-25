@@ -1,0 +1,6 @@
+; CyTestCaseLib.def : Declares the module parameters for the DLL.
+
+;LIBRARY      "CyTestCaseLib";²ñìÇ×¢ÊÍ
+
+EXPORTS
+    ; Explicit exports can go here

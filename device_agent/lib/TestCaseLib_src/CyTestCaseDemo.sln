@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CyTestCaseDemo", "CyTestCaseDemo\CyTestCaseDemo.vcxproj", "{B22A7429-1407-412A-A956-EA9CD4445803}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CyTestCaseLib", "CyTestCaseLib\CyTestCaseLib.vcxproj", "{11C93429-B0B4-4459-BAB8-0440053E7C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		ReleaseChuangXinCenter|Win32 = ReleaseChuangXinCenter|Win32
+		ReleaseChuangxinzhongxin|Win32 = ReleaseChuangxinzhongxin|Win32
+		ReleaseRpt|Win32 = ReleaseRpt|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22A7429-1407-412A-A956-EA9CD4445803}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.Debug|Win32.Build.0 = Debug|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.Release|Win32.ActiveCfg = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.Release|Win32.Build.0 = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseChuangXinCenter|Win32.ActiveCfg = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseChuangXinCenter|Win32.Build.0 = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseChuangxinzhongxin|Win32.ActiveCfg = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseChuangxinzhongxin|Win32.Build.0 = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseRpt|Win32.ActiveCfg = Release|Win32
+		{B22A7429-1407-412A-A956-EA9CD4445803}.ReleaseRpt|Win32.Build.0 = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.Debug|Win32.Build.0 = Debug|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.Release|Win32.ActiveCfg = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.Release|Win32.Build.0 = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseChuangXinCenter|Win32.ActiveCfg = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseChuangXinCenter|Win32.Build.0 = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseChuangxinzhongxin|Win32.ActiveCfg = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseChuangxinzhongxin|Win32.Build.0 = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseRpt|Win32.ActiveCfg = Release|Win32
+		{11C93429-B0B4-4459-BAB8-0440053E7C49}.ReleaseRpt|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
