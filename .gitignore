@@ -9,3 +9,4 @@ report.html
 build/
 dist/
 device_agent/lib/out/
+ipch/
